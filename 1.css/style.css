@@ -94,13 +94,10 @@ nav li a{
 	margin-right: 90px;
 }
 
-nav li a:hover{
-	background: rgb(214, 155, 155);	
-}
 
 .main{
 	display: flex;
-	flex: 1 1 auto;	
+	flex: 1 auto;	
 }
 
 .main-container{
@@ -117,7 +114,7 @@ nav li a:hover{
 
 aside ul li{
 	padding: 15px 0;
-	transition: transform .5s ease;
+	transition: transform.5s ease;
 	cursor: pointer;
 }
 
